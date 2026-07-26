@@ -31,7 +31,7 @@ body {
 
 h1 {
     font-family: "Oleho Senthor Trial";
-    font-size: 42px;
+    font-size: 48px;
 }
 
 descr {
@@ -61,7 +61,7 @@ a {
 
 #back {
     padding: 10px 16px;
-    background: var(--tx1);
+    background: var(--bg5);
     border:1px solid #0a0605;
     border-radius: 8px;
     cursor: pointer;
