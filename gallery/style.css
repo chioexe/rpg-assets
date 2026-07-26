@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "Oleho Senthor Trial";
-    src: url("./fonts/Oleho-Senthor-Trial.otf") format("otf");
+    src: url("./fonts/Oleho-Senthor-Trial.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
 }
@@ -34,6 +34,16 @@ h1 {
     font-size: 42px;
 }
 
+descr {
+    font-size: 12px;
+    font-style: italic;
+    letter-spacing: 1px;
+}
+
+a {
+    color: var(--bg5);
+    text-decoration: underline dotted;
+}
 
 .toolbar {
     display: flex;
